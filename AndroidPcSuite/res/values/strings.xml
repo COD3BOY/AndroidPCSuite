@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Android PC Suite </string>
+    <string name="app_name">AndroidPcSuite</string>
+
+    <string name="test">Search</string>
+    <string name="click">Click me to send!!</string>
+    <string name="connect">Connect</string>
+    <string name="run">RUN</string>
+    <string name="mouseMode">Mouse Mode</string>
+    <string name="search">Search</string>
+    <string name="clk">Click</string>
+    <string name="Initial">Initial</string>
+    <string name="keyboardmode">Keyboard Mode</string>
+    <string name="applicationmode">Application Mode</string>
+    <string name="utilities">Utilities</string>
+    <string name="A">A</string>
+    <string name="scanning">Trying To Reach The Server</string>
+    <string name="select_device">Select a Blue Tooth Server</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Start Device Scan</string> 
+    <string name="mousemode">Mouse mode</string>
+    <string name="initial">Initial</string>
+    <string name="created">Lovingly created at CyberPrism Limited</string>
+    <string name="proceed">Proceed to Application!!!</string>
+    <string name="message">Message</string>
+    <string name="getinside">Get Inside!</string>
+
+</resources>
